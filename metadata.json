@@ -1,0 +1,6 @@
+{
+  "name": "Арт-Портфолио & Студия",
+  "description": "Персональное интерактивное портфолио с удобной админ-панелью для добавления проектов, загрузки изображений и демонстрации клиентам.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
